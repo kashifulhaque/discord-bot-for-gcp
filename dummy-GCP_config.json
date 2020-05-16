@@ -1,0 +1,4 @@
+{
+  "steps": "Visit the URL below and follow the steps to generate a Service Account and an Auth Token",
+  "url": "https://cloud.google.com/docs/authentication/production?_ga=2.205580179.1089106346.1589480557-1074299793.1585422711#obtaining_and_providing_service_account_credentials_manually"
+}
