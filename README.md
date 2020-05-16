@@ -5,8 +5,8 @@
 ---------
 My friend and I, we love playing Minecraft. What we don't like is going through the painful process of starting a server via the GCP console. So, I went ahead and built this Discord bot to automate that process.
 
-• Typing in `!server status` gives the current status of the server.
-• Typing in `!server start` starts the GCP Compute Engine instance.
+• Typing in `!server status` gives the current status of the server.\n
+• Typing in `!server start` starts the GCP Compute Engine instance.\n
 • Typing in `!server stop` stops the GCP Compute Engine instance.
 
 ### Enough talk, how do I host my own bot and start using it to satisfy my laziness?
