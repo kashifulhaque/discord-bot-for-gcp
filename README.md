@@ -7,7 +7,7 @@ My friend and I, we love playing Minecraft. What we don't like is going through 
 
 • Typing in `!server status` gives the current status of the server.
 
-• Typing in `!server start` starts the GCP Compute Engine instance.
+• Typing in `!server start` starts the GCP Compute Engine instance. Typing in `!server start` again returns the Compute Engine instance external IP address, afaik the Google Cloud API does not send a response when the server gets started so you have to manually call the API again. You can use a timer also to automate it partially.
 
 • Typing in `!server stop` stops the GCP Compute Engine instance.
 
