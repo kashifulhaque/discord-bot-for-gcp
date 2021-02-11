@@ -1,7 +1,7 @@
 # Discord Bot for GCP Compute Engine
 > A Discord bot which uses the Google Cloud API to provision a Compute Engine instance.
 
-### Story
+### Story time
 ---------
 My friend and I, we love playing Minecraft. What we don't like is going through the painful process of starting a server via the GCP console. So, I went ahead and built this Discord bot to automate that process.
 
@@ -11,7 +11,7 @@ My friend and I, we love playing Minecraft. What we don't like is going through 
 
 • Typing in `!server stop` stops the GCP Compute Engine instance.
 
-### Enough talk, how do I host my own bot and start using it to satisfy my laziness?
+### Ok, how do I host my own bot?
 
 1. Make sure you have Node.js installed. You can download it [here](https://nodejs.org)
 2. Install [yarn](https://yarnpkg.com) [OPTIONAL]
